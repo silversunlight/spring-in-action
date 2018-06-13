@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--<bean id="cd" class="chapter2.xmlBeanConfig.BlankDisc">-->
+    <!--<constructor-arg value="八十年代的歌"/>-->
+    <!--<constructor-arg value="赵雷"/>-->
+    <!--</bean>-->
+
+    <!--下面是注释掉的部分用c命名空间装配的方式-->
+    <bean id="cd" class="chapter2.xmlBeanConfig.BlankDisc"
+          c:title="八十年代的歌"
+          c:artist="赵雷"/>
+    <!--当需要传入一个List作为参数的时候，比如一个有多首歌的cd-->
+    <bean id="cd2" class="chapter2.xmlBeanConfig.BlankDiscManySongs">
+        <constructor-arg value="八十年代的歌"/>
+        <constructor-arg value="赵雷"/>
+        <constructor-arg>
+            <list>
+                <value>八十年代的歌</value>
+                <value>郭源潮</value>
+                <value>阿刁</value>
+            </list>
+        </constructor-arg>
+    </bean>
+    <!--这是有构造器的情况下，可以用构造器注入-->
+    <!--<bean id="cdplayer" class="chapter2.xmlBeanConfig.CDPlayer"-->
+          <!--c:cd-ref="cd">-->
+    <!--</bean>-->
+    <!--没有构造器的情况下，可以用Setter来注入-->
+    <!--这是正常的注入，用property-->
+    <!--<bean id="cdplayer" class="chapter2.xmlBeanConfig.CDPlayer">-->
+        <!--<property name="CD"ref="cd"/>-->
+    <!--</bean>-->
+    <!--这是用p命名空间注入的方式-->
+    <bean id="cdplayer" class="chapter2.xmlBeanConfig.CDPlayer"
+          p:CD-ref="cd"/>
+
+    <bean id="cd3" class="chapter2.xmlBeanConfig.BlankDisc3">
+        <property name="title" value="成都"/>
+        <property name="artist" value="赵雷"/>
+        <property name="tracks">
+            <list>
+                <value>八十年代的歌</value>
+                <value>成都</value>
+                <value>阿刁</value>
+            </list>
+        </property>
+    </bean>
+
+    <!--使用util命名空间来定义List-->
+    <util:list id="trackList">
+        <value>八十年代的歌</value>
+        <value>成都</value>
+        <value>阿刁</value>
+    </util:list>
+    <bean id="cd4" class="chapter2.xmlBeanConfig.BlankDisc3"
+    p:title="成都"
+    p:artist="赵雷"
+    p:tracks-ref="trackList">
+    </bean>
+</beans>
