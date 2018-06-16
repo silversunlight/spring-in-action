@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-in-web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_in_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-in-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-in-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.5.RELEASE" />
+          <element id="library" level="module" name="Spring MVC-4.3.18.RELEASE" module-name="spring-in-web" />
+          <element id="file-copy" path="$PROJECT_DIR$/../spring-in-action/spring-in-web/lib/spring-context-4.3.18.RELEASE.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

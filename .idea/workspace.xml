@@ -4,6 +4,7 @@
     <list default="true" id="a8eaf5e9-0657-46b0-b656-6f8769993805" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring-in-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,118 +12,61 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-in-action" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chapter2xmlBeanConfig.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/chapter2xmlBeanConfig.xml">
+      <file leaf-file-name="Audience.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/Audience.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlankDisc3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDisc3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="264">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlankDiscManySongs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDiscManySongs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="knightConfig.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/knightConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediaPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/MediaPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CDPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/CDPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding>
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CD.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/CD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EightEraSong.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/EightEraSong.java">
+      <file leaf-file-name="EncoreableIntroducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/EncoreableIntroducer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../spring-in-action/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CDPlayerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/autowiring/CDPlayerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FruitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/javaCodeConfig/FruitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GuoYuanChao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/GuoYuanChao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlankDisc.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDisc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-              <folding>
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -134,8 +78,10 @@
       <list>
         <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="Aspect" />
         <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -145,48 +91,64 @@
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/..////spring-framework-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/..////////spring-framework-master" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/test/java/chapter3/qualifier/QualifierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Dominica.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Marley.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Ria.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/chapter3Config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Casey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Mira.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter3/properitesAndSpel/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/chapter3properties.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/Belle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/propertyAndSpel/TeacherConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/Performance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/ConcertConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/Audience.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/Audience.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/CDconfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/CD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/BlankCD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/TrackCounter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/CDPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/CD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/CDPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/Performance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/Encoreable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/EncoreableIntroducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/DefaultEncoreableImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/Concert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/cdplayer/CDconfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/EncoreableIntroducer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter4/concert/CDPlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/Concert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/Encoreable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/DefaultEncoreableImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/Audience.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter4/concert/ConcertTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/chapter4concert.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/ConcertConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter4/concert/CriticAspect.aj" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/SpittrWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/Knight.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/BraveKnight.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/Quest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/SlayDragonQuest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/KnightConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/KnightMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter1/Minstrel.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/knightConfig.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/knightConfig.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/CompactDisc.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/SgtPeppers.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/CDPlayerConfig.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/MediaPlayer.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/pom.xml" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/CDPlayer.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/autowiring/CDPlayerTest.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Fruit.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Apple.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Watermelon.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Banana.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/javaCodeConfig/FruitTest.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/FruitConfig.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/MediaPlayer.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/DVDPlayer.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/CD.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/EightEraSong.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/GuoYuanChao.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDisc.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/resources/knightConfig.xml" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDiscManySongs.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDisc3.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/CDPlayer.java" />
-        <option value="$PROJECT_DIR$/../spring-in-action/src/main/resources/chapter2xmlBeanConfig.xml" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/spittr/config/SpittrWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/spittr/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/java/spittr/config/SpittrWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/java/spittr/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/java/spittr/config/RootConfig.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/java/spittr/config/RootConfig.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/java/spittr/web/HomeController.java" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/webapp/WEB-INF/views/home.js" />
+        <option value="$PROJECT_DIR$/spring-in-web/src/main/webapp/WEB-INF/views/home.jsp" />
       </list>
     </option>
   </component>
@@ -195,6 +157,26 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-in-action" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-in-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-in-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -205,12 +187,15 @@
     <option name="width" value="1094" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -221,45 +206,6 @@
             </path>
             <path>
               <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-in-action" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-in-action" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-in-action" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-in-action" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-in-action" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-in-action" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-in-action" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -267,18 +213,26 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-in-action" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring-in-action\spring-in-web\src\main\java\spittr" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -293,37 +247,40 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.FruitTest.fruitTest">
-    <configuration name="KnightMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.KnightMain" />
-      <module name="spring-in-action" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method>
-        <option name="Make" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <module name="spring-in-action" />
       <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="CDPlayerTest.cdShouldNotBeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in spring-in-web" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-web" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CDPlayerTest.countTrack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-in-action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.autowiring.*" />
+          <option name="PATTERN" value="chapter4.concert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter2.autowiring" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.autowiring.CDPlayerTest" />
-      <option name="METHOD_NAME" value="cdShouldNotBeNull" />
+      <option name="PACKAGE_NAME" value="chapter4.concert" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.concert.CDPlayerTest" />
+      <option name="METHOD_NAME" value="countTrack" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -334,19 +291,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CDPlayerTest.play" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConcertTest.testEncoreable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-in-action" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.autowiring.*" />
+          <option name="PATTERN" value="chapter4.concert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chapter2.autowiring" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.autowiring.CDPlayerTest" />
-      <option name="METHOD_NAME" value="play" />
+      <option name="PACKAGE_NAME" value="chapter4.concert" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.concert.ConcertTest" />
+      <option name="METHOD_NAME" value="testEncoreable" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -370,6 +327,29 @@
       <option name="PACKAGE_NAME" value="chapter2.javaCodeConfig" />
       <option name="MAIN_CLASS_NAME" value="chapter2.javaCodeConfig.FruitTest" />
       <option name="METHOD_NAME" value="fruitTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test.testBelle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-in-action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.properitesAndSpel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="chapter3.properitesAndSpel" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.properitesAndSpel.Test" />
+      <option name="METHOD_NAME" value="testBelle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -419,17 +399,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.KnightMain" />
-      <item itemvalue="JUnit.CDPlayerTest.cdShouldNotBeNull" />
-      <item itemvalue="JUnit.CDPlayerTest.play" />
+      <item itemvalue="JUnit.Test.testBelle" />
+      <item itemvalue="JUnit.CDPlayerTest.countTrack" />
+      <item itemvalue="JUnit.ConcertTest.testEncoreable" />
+      <item itemvalue="JUnit.All in spring-in-web" />
       <item itemvalue="JUnit.FruitTest.fruitTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FruitTest.fruitTest" />
-        <item itemvalue="JUnit.CDPlayerTest.play" />
-        <item itemvalue="JUnit.CDPlayerTest.cdShouldNotBeNull" />
-        <item itemvalue="Application.KnightMain" />
+        <item itemvalue="JUnit.All in spring-in-web" />
+        <item itemvalue="JUnit.ConcertTest.testEncoreable" />
+        <item itemvalue="JUnit.CDPlayerTest.countTrack" />
+        <item itemvalue="JUnit.Test.testBelle" />
       </list>
     </recent_temporary>
   </component>
@@ -446,41 +428,56 @@
       <workItem from="1528864435649" duration="4365000" />
       <workItem from="1528880721681" duration="1858000" />
       <workItem from="1528888729088" duration="435000" />
-      <workItem from="1528890122153" duration="9570000" />
+      <workItem from="1528890122153" duration="10700000" />
+      <workItem from="1528953582230" duration="18183000" />
+      <workItem from="1529038582032" duration="10902000" />
+      <workItem from="1529052005491" duration="1762000" />
+      <workItem from="1529129196147" duration="572000" />
     </task>
+    <task id="LOCAL-00001" summary="spring-in-action 前两章的代码实现">
+      <created>1528904929552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528904929552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CDPlayerTest_cdShouldNotBeNull - 2018.06.13 at 20h 32m 17s.xml">
-      <configuration name="CDPlayerTest.cdShouldNotBeNull" configurationId="JUnit" />
+    <history-entry file="Test_testBelle - 2018.06.14 at 16h 43m 56s.xml">
+      <configuration name="Test.testBelle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CDPlayerTest_cdShouldNotBeNull - 2018.06.13 at 21h 14m 53s.xml">
-      <configuration name="CDPlayerTest.cdShouldNotBeNull" configurationId="JUnit" />
+    <history-entry file="Test_testBelle - 2018.06.14 at 16h 44m 49s.xml">
+      <configuration name="Test.testBelle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CDPlayerTest_play - 2018.06.13 at 21h 15m 42s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
+    <history-entry file="Test_testBelle - 2018.06.14 at 16h 45m 27s.xml">
+      <configuration name="Test.testBelle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CDPlayerTest_play - 2018.06.13 at 21h 16m 17s.xml">
-      <configuration name="CDPlayerTest.play" configurationId="JUnit" />
+    <history-entry file="ConcertTest_countTrack - 2018.06.15 at 13h 06m 53s.xml">
+      <configuration name="ConcertTest.countTrack" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FruitTest_fruitTest - 2018.06.13 at 21h 25m 03s.xml">
-      <configuration name="FruitTest.fruitTest" configurationId="JUnit" />
+    <history-entry file="ConcertTest_countTrack - 2018.06.15 at 13h 07m 51s.xml">
+      <configuration name="ConcertTest.countTrack" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FruitTest_fruitTest - 2018.06.13 at 21h 28m 49s.xml">
-      <configuration name="FruitTest.fruitTest" configurationId="JUnit" />
+    <history-entry file="ConcertTest_testEncoreable - 2018.06.15 at 13h 55m 46s.xml">
+      <configuration name="ConcertTest.testEncoreable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FruitTest_fruitTest - 2018.06.13 at 21h 29m 02s.xml">
-      <configuration name="FruitTest.fruitTest" configurationId="JUnit" />
+    <history-entry file="ConcertTest_testEncoreable - 2018.06.15 at 14h 34m 46s.xml">
+      <configuration name="ConcertTest.testEncoreable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FruitTest_fruitTest - 2018.06.13 at 21h 29m 18s.xml">
-      <configuration name="FruitTest.fruitTest" configurationId="JUnit" />
+    <history-entry file="ConcertTest_testEncoreable - 2018.06.15 at 14h 36m 52s.xml">
+      <configuration name="ConcertTest.testEncoreable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FruitTest_fruitTest - 2018.06.13 at 21h 30m 27s.xml">
+    <history-entry file="ConcertTest_testEncoreable - 2018.06.15 at 14h 39m 44s.xml">
+      <configuration name="ConcertTest.testEncoreable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FruitTest_fruitTest - 2018.06.15 at 15h 22m 45s.xml">
       <configuration name="FruitTest.fruitTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16228000" />
+    <option name="totallyTimeSpent" value="48777000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,36 +490,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="0" width="1920" height="1040" id="Run" order="2" type="FLOATING" weight="0.8547855" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" x="-1920" y="0" width="1920" height="1040" id="Run" order="2" type="FLOATING" weight="0.8547855" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.0892562" visible="true" weight="0.2708018" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.9107438" side_tool="true" weight="0.2647504" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.9107438" side_tool="true" weight="0.2647504" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983471" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32561985" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,416 +531,112 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring-in-action 前两章的代码实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-in-action 前两章的代码实现" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Quest.java">
+    <entry file="uml://JAVA/chapter1.BraveKnight">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>chapter1.BraveKnight</OriginalElement>
+          <nodes>
+            <node x="" y="">chapter1.BraveKnight</node>
+            <node x="" y="">chapter1.Knight</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="59.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/KnightMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/knightConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Minstrel.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Dominica.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
+          <caret line="15" column="74" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/BraveKnight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/SlayDragonQuest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Quest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/KnightMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/KnightMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Minstrel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/BraveKnight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/SlayDragonQuest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Quest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/knightConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1.java" />
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Quest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/KnightConfig.java" />
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/SlayDragonQuest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/BraveKnight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/Minstrel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter1/KnightMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/MediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/CDPlayerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1551">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Apple.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Ria.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/autowiring/CDPlayerTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyResourceConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-401">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Watermelon.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE-sources.jar!/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="292">
+          <caret line="88" column="67" lean-forward="true" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/Banana.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="462">
+          <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/javaCodeConfig/FruitTest.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/chapter3Config.xml" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Marley.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="297">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/javaCodeConfig/FruitConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/DVDPlayer.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Mira.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-          <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/CompactDisc.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Casey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="258">
+          <caret line="16" column="74" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/CDPlayer.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter3/properitesAndSpel/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="654">
+          <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/autowiring/SgtPeppers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/MediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/CD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/EightEraSong.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/Belle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/GuoYuanChao.java">
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter3/propertyAndSpel/TeacherConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDisc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="429">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -951,43 +647,213 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDiscManySongs.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.1/aspectjweaver-1.9.1.jar!/org/aspectj/lang/ProceedingJoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/chapter3properties.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/CDPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter2/xmlBeanConfig/BlankDisc3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-          </folding>
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/chapter2xmlBeanConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/CDPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/TrackCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/BlankCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/EncoreableIntroducer.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/Performance.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/DefaultEncoreableImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/Encoreable.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/Concert.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/cdplayer/CDconfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter4/concert/CDPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/Concert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/Performance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/DefaultEncoreableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/Encoreable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/resources/chapter4concert.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/ConcertConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter4/concert/ConcertTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/Audience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/CriticAspect.aj" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/main/java/chapter4/concert/EncoreableIntroducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/autowiring/CDPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/src/test/java/chapter2/javaCodeConfig/FruitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/java/spittr/config/SpittrWebAppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/java/spittr/config/SpittrWebAppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/java/spittr/Spitter.java" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/java/spittr/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/java/spittr/config/RootConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/webapp/WEB-INF/views/home.js" />
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/java/spittr/web/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/spring-in-web/src/main/webapp/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring-in-action/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -997,10 +863,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>spring-in-web:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1008,11 +876,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Web (spring-in-web)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28" />
               </list>
             </option>
           </splitter-proportions>
@@ -1023,7 +891,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28" />
               </list>
             </option>
           </splitter-proportions>
@@ -1035,7 +903,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28" />
               </list>
             </option>
           </splitter-proportions>
@@ -1047,7 +915,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1056,11 +924,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <last-edited>Maven: com.github.stefanbirkner:system-rules:1.18.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.28" />
               </list>
             </option>
           </splitter-proportions>
